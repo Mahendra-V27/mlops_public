@@ -1,6 +1,4 @@
-To help you create a `README.md` file for your MLOps public code, I would need a bit more context regarding what your project entails. Here's a basic template you can modify based on your project details:
 
----
 
 # MLOps Public Project
 
